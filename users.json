@@ -1,0 +1,86 @@
+[
+    {
+        "username": "deepeshrajpal",
+        "password": "pass",
+        "token":"",
+        "disname": "Deepesh Rajpal",
+        "practiceid":"110011",
+        "practicename":"SightMD",
+        "dashboards": [{
+            "dashboardname" : "Finance",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "1c1fe111-e2d2-3b30-44ef-a0e111111cde",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false,
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+            "parameter": ""
+        },
+        {
+            "dashboardname" : "Admin",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "09f50c69-c814-46c9-ac42-d121c2e6b35f",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false,
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+            "parameter": ""
+        }, 
+        {
+            "dashboardname" : "Clinical",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "f25b7cfa-4a6d-4d66-a36d-45d14aa70cb5",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false,
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+           
+            "parameter": ""
+        }
+    ]},
+    {
+        "username": "ravic",
+        "password": "pass",
+        "token":"",
+        "disname": "Ravi Chaudhary",
+        "practiceid":"110011",
+        "practicename":"SightMD",
+        "dashboards": [{
+            "dashboardname" : "Finance",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "1c1fe111-e2d2-3b30-44ef-a0e111111cde",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false, 
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+           
+            "parameter": ""
+        },
+        {
+            "dashboardname" : "Admin",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "09f50c69-c814-46c9-ac42-d121c2e6b35f",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false,
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+            "parameter": ""
+        }, 
+        {
+            "dashboardname" : "Clinical",
+            "AwsAccountId": "204538904702",
+            "DashboardId": "f25b7cfa-4a6d-4d66-a36d-45d14aa70cb5",
+            "IdentityType": "QUICKSIGHT",
+            "ResetDisabled": true,
+            "SessionLifetimeInMinutes": 100,
+            "UndoRedoDisabled": false,
+            "userARN": "arn:aws:quicksight:us-east-1:204538904702:user/default/vikas.saroha@eyecareleaders.com",
+            "parameter": ""
+        }
+    ]}
+]
