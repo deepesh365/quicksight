@@ -1,0 +1,2 @@
+# quicksight
+Embedded QuickSight dashboard
