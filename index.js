@@ -18,8 +18,9 @@ var cors = require('cors');
  
 // importing body-parser, which will handle the user input bodies
 const bodyParser = require('body-parser');
-const accessTokenSecret = '7494d9d4ee7588ef4a0ca4594d4bed82';
-const refreshTokenSecret = 'f1dbd7eb282024bf507f657179141c47';
+// put access token and secret here
+const accessTokenSecret = '';
+const refreshTokenSecret = '';
 
 /*
 const jsonString = fs.readFileSync("./users.json");
